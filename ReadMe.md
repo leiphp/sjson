@@ -1,8 +1,8 @@
 # sjson
 
-[![Go Doc](https://godoc.org/github.com/strugglerx/sjson?status.svg)](https://godoc.org/github.com/strugglerx/sjson)
-[![Production Ready](https://img.shields.io/badge/production-ready-blue.svg)](https://github.com/strugglerx/sjson)
-[![License](https://img.shields.io/github/license/strugglerx/sjson.svg?style=flat)](https://github.com/strugglerx/sjson)
+[![Go Doc](https://godoc.org/github.com/leiphp/sjson?status.svg)](https://godoc.org/github.com/leiphp/sjson)
+[![Production Ready](https://img.shields.io/badge/production-ready-blue.svg)](https://github.com/leiphp/sjson)
+[![License](https://img.shields.io/github/license/leiphp/sjson.svg?style=flat)](https://github.com/leiphp/sjson)
 
 convert `string json` to `json`
 # Feature
@@ -30,11 +30,11 @@ convert
 
 # Installation
 ```
-go get -u -v github.com/strugglerx/sjson
+go get -u -v github.com/leiphp/sjson
 ```
 suggested using `go.mod`:
 ```
-require github.com/strugglerx/sjson
+require github.com/leiphp/sjson
 ```
 
 # Usage
@@ -42,7 +42,7 @@ require github.com/strugglerx/sjson
 package main 
 
 import (
-    "github.com/strugglerx/sjson"
+    "github.com/leiphp/sjson"
     "fmt"
 )
 
